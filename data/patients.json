@@ -1,0 +1,58 @@
+{
+  "patients": [
+    {
+      "firstName": "Jon",
+      "lastName": "Crow",
+      "specialist": "Dermatologist",
+      "birthDate": "2019-09-23",
+      "serviceDate": "2019-09-23 10:32",
+      "isServiced": false,
+      "addedOn": "2019-09-23 02:32"
+    },
+    {
+      "firstName": "Gerald",
+      "lastName": "Rivera",
+      "specialist": "Dermatologist",
+      "birthDate": "2019-09-23",
+      "serviceDate": "2019-09-23 15:32",
+      "isServiced": false,
+      "addedOn": "2019-09-23 02:32"
+    },
+    {
+      "firstName": "Johny",
+      "lastName": "Bravo",
+      "specialist": "Dermatologist",
+      "birthDate": "2019-09-23",
+      "serviceDate": "2019-09-23 06:32",
+      "isServiced": false,
+      "addedOn": "2019-09-23 02:32"
+    },
+    {
+      "firstName": "Sir Reginald",
+      "lastName": "Carpal",
+      "specialist": "Cardiologist",
+      "birthDate": "2019-09-23",
+      "serviceDate": "2019-09-23 04:01",
+      "isServiced": false,
+      "addedOn": "2019-09-23 02:30"
+    },
+    {
+      "firstName": "Alicia",
+      "lastName": "Vikander",
+      "specialist": "Cardiologist",
+      "birthDate": "2019-09-23",
+      "serviceDate": "2019-09-23 04:03",
+      "isServiced": false,
+      "addedOn": "2019-09-23 02:30"
+    },
+    {
+      "firstName": "Arūnas",
+      "lastName": "Joskaudas",
+      "specialist": "Nurse",
+      "birthDate": "2019-09-23",
+      "serviceDate": "2019-09-23 10:49",
+      "isServiced": true,
+      "addedOn": "2019-09-23 01:49"
+    }
+  ]
+}
